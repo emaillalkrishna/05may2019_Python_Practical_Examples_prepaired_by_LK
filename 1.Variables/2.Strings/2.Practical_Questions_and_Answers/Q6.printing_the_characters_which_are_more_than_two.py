@@ -1,0 +1,1 @@
+# # # Question 6 : String → Counting the characters more than 2 in my_string = "malayalam"
