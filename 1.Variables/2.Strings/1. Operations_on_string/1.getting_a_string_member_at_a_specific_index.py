@@ -1,2 +1,2 @@
-var = "qspiders"
-print(var[1])       #Ans: s
+# var = "qspiders"
+# print(var[1])       #Ans: s
